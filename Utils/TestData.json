@@ -1,0 +1,14 @@
+{
+    "validusername":"User1_1_0",
+    "validpassword":"Psw1",
+    "invalidusername": "ABC_user",
+    "invalidpassword": "ABC_psw",
+
+    
+    "name": "User ",
+    "country": "INDIA",
+    "city": "CHENNAI",
+    "creditCard": "9876543210",
+    "month": "MARCH",
+    "year": "2026"
+}
